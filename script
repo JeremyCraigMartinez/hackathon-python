@@ -1,0 +1,5 @@
+#!/bin/bash
+./main.py /media/jeremy/New\ Volume/102814\ logs/2014-10-29.log &
+./main.py /media/jeremy/New\ Volume/Border\ log\ 2/2014-07-30.log &
+./main.py /media/jeremy/New\ Volume/Border_Logs/2014-10-28.log &
+./main.py /media/jeremy/New\ Volume/Griffen\ Server/2014-10-21.log &
