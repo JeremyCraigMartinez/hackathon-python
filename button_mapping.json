@@ -2,7 +2,7 @@
 	"START": ["github","stackoverflow","hackernews"],
 	"SELECT": ["reddit","pornhub","4chan"],
 	"DOWN": ["pandora","spotify","twitch"],
-	"UP": ["faceboook","twitter","myspace"],
+	"UP": ["facebook","twitter","myspace"],
 	"RIGHT": ["amazon","ebay"],
 	"LEFT": ["youtube","netflix","hulu"],
 	"A": ["google","yahoo","bing","baidu","duckduckgo"],
